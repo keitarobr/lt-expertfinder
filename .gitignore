@@ -95,5 +95,7 @@ hs_err_pid*
 ## ignoring target file
 target/
 
+### Python ###
+venv/
 
 # End of https://www.gitignore.io/api/java,java-web,intellij+all
